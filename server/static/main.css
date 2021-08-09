@@ -1,0 +1,25 @@
+body {
+  background-color: navy;
+}
+
+.asides-wrapper {
+  background-color: slategrey;
+}
+
+#aside-1 {
+  display: block;
+  content-overflow: wrap;
+  float: left;
+  width: 20rem;
+  height: 15rem;
+  color: magenta;
+}
+
+#aside-2 {
+  display: block;
+  content-overflow: wrap;
+  float: left;
+  width: 20rem;
+  height: 15rem;
+  color: salmon;
+}
